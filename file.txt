@@ -1,1 +1,1 @@
-# add
+hi this is the addition and multiplication program in javaScript
